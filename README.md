@@ -2,8 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website
 
-ankagkanrglamslfjliahgjvngoanvnoiegjsnvwefwnvlnvlnn
-
-ajnjanfqenveifijwelnwnvwjnvwnlnc
+Files for the Website Project
+1. index.html
